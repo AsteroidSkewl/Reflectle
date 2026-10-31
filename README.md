@@ -11,15 +11,15 @@ The acrylic panels will slot into the insets and there will be 10 of them, measu
 I designed a PCB to fit all of the parts. I did this because it would be much more accurate than trying to align 60 LEDs in the right place. I used EasyEDA Pro to make my designs and decided to track them manually. I had to think a lot about how I wanted to arrange the parts for a good, clean schematic.
 Here is the final schematic for my PCB:
 
-![FinalSchematic](Schematic.png)
+![FinalSchematic](Photos/Schematic.png)
 
 I think it was done optimally and looks pretty good.
 I arranged the parts by comparing measurements against the CAD model. This is the PCB that is tracked up:
 
-![TrackedUpDesign](TrackedPCB.png)
+![TrackedUpDesign](Photos/TrackedPCB.png)
 
 Here are both sides of the model that JLCPCB created when I ordered the PCB:
 
-![TopSide](Top3D.png)
+![TopSide](Photos/Top3D.png)
 
-![BottomSide](Bottom3D.png)
+![BottomSide](Photos/Bottom3D.png)
